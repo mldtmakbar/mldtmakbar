@@ -24,8 +24,8 @@ I'm a passionate **Full-Stack Developer** based in Yogyakarta, Indonesia. I enjo
 
 - 📧 Email: [maulidiatamaakbar58@gmail.com](mailto:maulidiatamaakbar58@gmail.com)  
 - 🌍 Website: [mldtmakbar.netlify.app](https://mldtmakbar.netlify.app/)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/mldtmakbar/)  
-- 📷 [Instagram](https://www.instagram.com/mldtmakbar/)
+- 💼 LinkedIn: [https://www.linkedin.com/in/mldtmakbar/](https://www.linkedin.com/in/mldtmakbar/)  
+- 📷 Instagram: [https://www.instagram.com/mldtmakbar/](https://www.instagram.com/mldtmakbar/)
 
 ---
 

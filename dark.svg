@@ -61,30 +61,52 @@
 <g transform="translate(0,38)">
   <rect x="14" y="26" width="560" height="360" rx="14" fill="#0b1120" fill-opacity="0.35" stroke="url(#borderGrad)" stroke-width="1" opacity="0.35"/>
   <rect x="586" y="26" width="580" height="360" rx="14" fill="#0b1120" fill-opacity="0.35" stroke="url(#borderGrad)" stroke-width="1" opacity="0.35"/>
-  <text x="30" y="20" class="panel-title">WORLD.MAP</text>
+  <text x="30" y="20" class="panel-title">OPERATOR.IMG</text>
   <text x="602" y="20" class="panel-title">SYSTEM.INFO</text>
 
   <g mask="url(#revealMask)">
-  <text x="30" y="0" class="ascii">
-<tspan x="30" y="70" xml:space="preserve">        . _..::__:  ,-"-"._       |]       ,     _,.__            </tspan>
-<tspan x="30" y="82" xml:space="preserve">    _.___ _ _&lt;_&gt;`!(._`.`-.    /        _._     `_ ,_/  '  '-._.--- </tspan>
-<tspan x="30" y="94" xml:space="preserve">  .{     " " `-==,',._\{  \  / {)     / _ "&gt;_,-' `                 </tspan>
-<tspan x="30" y="106" xml:space="preserve">   \_.:--.       `._ )`^-. "'      , [_/(                       __</tspan>
-<tspan x="30" y="118" xml:space="preserve">  '"'     \         "    _L       oD_,--'                )     /. </tspan>
-<tspan x="30" y="130" xml:space="preserve">           |           ,'         _)_.\\._&lt;&gt; {@""              /  </tspan>
-<tspan x="30" y="142" xml:space="preserve">           `.         /          [_/_'` `"(                 &lt;'}  )</tspan>
-<tspan x="30" y="154" xml:space="preserve">            \\    .-. )          /   `-'"..' `:._          _)  '  </tspan>
-<tspan x="30" y="166" xml:space="preserve">     `        \  (  `(          /         `:\  &gt; \  ,-^.  /' '     </tspan>
-<tspan x="30" y="178" xml:space="preserve">               `._,   ""        |         `.`-' \`.   /_.'         </tspan>
-<tspan x="30" y="190" xml:space="preserve">                  `=.---.       `._._       ,-'   `-.._.'         </tspan>
-<tspan x="30" y="202" xml:space="preserve">                    `|    `-._        |     /      __.--'         </tspan>
-<tspan x="30" y="214" xml:space="preserve">                     (        &gt;   .-.  )   .-'   _..'      ● BDG   </tspan>
-<tspan x="30" y="226" xml:space="preserve">                      `.     /     `' _.-'    &lt;_,-'               </tspan>
-<tspan x="30" y="238" xml:space="preserve">                        `-. /         '`  /|      _._            </tspan>
-<tspan x="30" y="250" xml:space="preserve">                           `           '  \ \-''  ` `.           </tspan>
+  <text x="137" y="0" class="ascii">
+<tspan x="137" y="44" xml:space="preserve">*#****++****+++***++++++++=======++++++++********+****+++*</tspan>
+<tspan x="137" y="53" xml:space="preserve">*#******************+++++++++++++****++******************#</tspan>
+<tspan x="137" y="61" xml:space="preserve">***++++++++++***+*+++++++====++++++====++==++++++++*******</tspan>
+<tspan x="137" y="70" xml:space="preserve">+*+++++++====++++++++++++======-------========+++++++++++*</tspan>
+<tspan x="137" y="78" xml:space="preserve">+++++++==========++============-----------======+++++++++*</tspan>
+<tspan x="137" y="87" xml:space="preserve">++++============================---=-----------========++*</tspan>
+<tspan x="137" y="96" xml:space="preserve">+++========------=====================---------==========+</tspan>
+<tspan x="137" y="104" xml:space="preserve">+++==========--------======================----==========+</tspan>
+<tspan x="137" y="113" xml:space="preserve">+++======+======------====++====++++++++++++===+=========+</tspan>
+<tspan x="137" y="121" xml:space="preserve">++++===============================+++++++++===++++=++====</tspan>
+<tspan x="137" y="130" xml:space="preserve">++++++================================+++++++++++++++++===</tspan>
+<tspan x="137" y="139" xml:space="preserve">+*+++++==================+++++++++++++++++++++++++++======</tspan>
+<tspan x="137" y="147" xml:space="preserve">+*+++++++=++====================++=======+======+++++=====</tspan>
+<tspan x="137" y="156" xml:space="preserve">**+++++*+-======================-================+=++==+++</tspan>
+<tspan x="137" y="164" xml:space="preserve">**+++**#=:--------=====++++=============================++</tspan>
+<tspan x="137" y="173" xml:space="preserve">*#*****#=-------------::----========================-==+++</tspan>
+<tspan x="137" y="182" xml:space="preserve">##*++#**=-----==========----:-------================+++++*</tspan>
+<tspan x="137" y="190" xml:space="preserve">#*+-=+++=:`:``:::=-:---============---=+==+++++++=+++++++*</tspan>
+<tspan x="137" y="199" xml:space="preserve">-=*=-+*+----:::::=:`````--`::::-=-----=+++++++++=+*****+**</tspan>
+<tspan x="137" y="207" xml:space="preserve">`**++**+-==============-==----:--:::::+**+++++==+++++++++*</tspan>
+<tspan x="137" y="216" xml:space="preserve">:**+***+--================++++++++=---=====+=-=++++++++++*</tspan>
+<tspan x="137" y="225" xml:space="preserve">-#*+***=-============-:``````::::::```````::``````:=****+*</tspan>
+<tspan x="137" y="233" xml:space="preserve">+#+==**=-::::::-==::---::`..:`.`.....````:--::::::::-==+**</tspan>
+<tspan x="137" y="242" xml:space="preserve">=--+***=---------=--:-:::`  --::` ...``:=:--=+=:--::--:::-</tspan>
+<tspan x="137" y="250" xml:space="preserve">++=++**==========::--:..`...:-`:`  ...`:```.`::-:::::````:</tspan>
+<tspan x="137" y="259" xml:space="preserve">+:``.=-::`::``:::. .``. .``:```````:``:`..`...``.````:`.--</tspan>
+<tspan x="137" y="268" xml:space="preserve">:::--------:::::::-````::`````````-=::```:::::::-----=-:==</tspan>
+<tspan x="137" y="276" xml:space="preserve">---==++++++++++++++::::+=:``.```.`:--=-::-=========---====</tspan>
+<tspan x="137" y="285" xml:space="preserve">`:``````::``:::::::`-:``:+-----=----==========-----------=</tspan>
+<tspan x="137" y="293" xml:space="preserve">---------::--==------`::--=====+-:--------:----------===-=</tspan>
+<tspan x="137" y="302" xml:space="preserve">-======---------::::::::::::---:`:---------=============-=</tspan>
+<tspan x="137" y="311" xml:space="preserve">----::::::::::::::::------`......-------------------------</tspan>
+<tspan x="137" y="319" xml:space="preserve">:-::-----------------:----` .`  `-------------------------</tspan>
+<tspan x="137" y="328" xml:space="preserve">`:-------------::::::-----` `-. -=----------:::::------===</tspan>
+<tspan x="137" y="336" xml:space="preserve">`::-::-::--:--------------` :=` :-----:-:--------===------</tspan>
+<tspan x="137" y="345" xml:space="preserve">--------------------------. :-` `----------====+===-------</tspan>
+<tspan x="137" y="354" xml:space="preserve">-============---------:---..-=` :========+++====----------</tspan>
+<tspan x="137" y="362" xml:space="preserve">========------------------`.==:.:+++++++===---------------</tspan>
+<tspan x="137" y="371" xml:space="preserve">-===-----------==========+-:=++-`-------------------------</tspan>
   </text>
-  <circle cx="470" cy="211" r="4" fill="#39d353"><animate attributeName="opacity" values="1;0.2;1" dur="1.4s" repeatCount="indefinite"/></circle>
-  <text x="30" y="286" class="term-label">&gt; deployed from [BANDUNG, INDONESIA]</text>
+  <text x="30" y="384" class="term-label">&gt; render [OPERATOR] @ [BANDUNG, INDONESIA]</text>
   </g>
 
   <g mask="url(#revealMask)">

@@ -27,11 +27,11 @@
     </td>
     <td valign="top">
       <img alt="du -sh langs/*" src="https://raw.githubusercontent.com/mldtmakbar/mldtmakbar/main/assets/h-langs.svg"><br/>
-      <img alt="top languages by repo" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mldtmakbar&layout=donut&langs_count=5&title_color=58a6ff&text_color=c9d1d9&bg_color=00000000&hide_border=true&theme=github_dark">
+      <img alt="top languages by repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mldtmakbar&theme=github_dark">
     </td>
     <td valign="top">
       <img alt="uptime --hours" src="https://raw.githubusercontent.com/mldtmakbar/mldtmakbar/main/assets/h-uptime.svg"><br/>
-      <img alt="commits per hour" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mldtmakbar&theme=github_dark&utcOffset=7">
+      <img alt="commits per hour" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mldtmakbar&theme=github_dark&utcOffset=7">
     </td>
   </tr>
 </table>

@@ -1,6 +1,6 @@
 # Profile README — mldtmakbar
 
-Meniru gaya profil rekan (Sushmitadasari): sebuah SVG banner animasi bertema
+Sebuah SVG banner animasi bertema
 terminal (panel WORLD.MAP + SYSTEM.INFO, warna hijau), plus animasi "jet"
 yang terbang di atas grid kontribusi GitHub asli.
 

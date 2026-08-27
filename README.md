@@ -70,7 +70,7 @@
     <img alt="Email" src="https://img.shields.io/badge/maulidiatamaakbar58@gmail.com-0b1120?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0b1120">
   </a>
   <a href="https://www.linkedin.com/in/mldtmakbar">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/mldtmakbar-0b1120?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0b1120">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/mldtmakbar-0b1120?style=for-the-badge&logo=linkedin&logoColor=4a9eff&labelColor=0b1120">
   </a>
   <a href="https://instagram.com/mldtmakbar">
     <img alt="Instagram" src="https://img.shields.io/badge/mldtmakbar-0b1120?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=0b1120">

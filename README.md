@@ -66,7 +66,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:mldtmakbar@gmail.com">
+  <a href="mailto:maulidiatamaakbar58@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/mldtmakbar@gmail.com-0b1120?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0b1120">
   </a>
   <a href="https://www.linkedin.com/in/mldtmakbar">

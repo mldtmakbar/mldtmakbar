@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="470" viewBox="0 0 1180 470">
+<defs>
+  <linearGradient id="asciiGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#39d353">
+      <animate attributeName="stop-color" values="#39d353;#26a641;#7ee787;#39d353" dur="9s" repeatCount="indefinite"/>
+    </stop>
+    <stop offset="100%" stop-color="#26a641">
+      <animate attributeName="stop-color" values="#26a641;#7ee787;#39d353;#26a641" dur="9s" repeatCount="indefinite"/>
+    </stop>
+  </linearGradient>
+  <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#26a641"/>
+    <stop offset="50%" stop-color="#39d353"/>
+    <stop offset="100%" stop-color="#7ee787"/>
+  </linearGradient>
+  <radialGradient id="bgGlow" cx="30%" cy="20%" r="80%">
+    <stop offset="0%" stop-color="#0d1117"/>
+    <stop offset="100%" stop-color="#050a10"/>
+  </radialGradient>
+  <linearGradient id="scanGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+    <stop offset="0%" stop-color="#39d353" stop-opacity="0"/>
+    <stop offset="45%" stop-color="#39d353" stop-opacity="0.05"/>
+    <stop offset="50%" stop-color="#7ee787" stop-opacity="0.55"/>
+    <stop offset="55%" stop-color="#39d353" stop-opacity="0.05"/>
+    <stop offset="100%" stop-color="#26a641" stop-opacity="0"/>
+  </linearGradient>
+  <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+    <rect width="4" height="1" fill="#7ee787" opacity="0.05"/>
+  </pattern>
+  <mask id="revealMask" maskUnits="userSpaceOnUse" x="0" y="0" width="1180" height="470">
+    <rect x="0" y="0" width="1180" height="0" fill="#fff">
+      <animate attributeName="height" from="0" to="440" dur="2.6s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    </rect>
+  </mask>
+  <style>
+    .ascii  { font-family:'Courier New',Consolas,monospace; font-size:9px; fill:url(#asciiGrad); letter-spacing:0px; }
+    .key    { font-family:'Courier New',Consolas,monospace; font-size:15px; fill:#39d353; font-weight:bold; }
+    .value  { font-family:'Courier New',Consolas,monospace; font-size:15px; fill:#c9d1d9; }
+    .cc     { font-family:'Courier New',Consolas,monospace; font-size:15px; fill:#475569; }
+    .head   { font-family:'Courier New',Consolas,monospace; font-size:17px; fill:#7ee787; font-weight:bold; }
+    text,tspan { white-space:pre; }
+    .term-label  { font-family:'Courier New',Consolas,monospace; font-size:12px; fill:#64748b; letter-spacing:0.5px; }
+    .scan-label  { font-family:'Courier New',Consolas,monospace; font-size:10px; fill:#39d353; letter-spacing:1px; }
+    .panel-title { font-family:'Courier New',Consolas,monospace; font-size:11px; fill:#7ee787; letter-spacing:2px; opacity:0.7; }
+  </style>
+</defs>
+
+<rect width="1180" height="470" rx="18" fill="url(#bgGlow)"/>
+<rect width="1180" height="470" rx="18" fill="url(#scanlines)"/>
+
+<g id="titlebar">
+  <rect x="3" y="3" width="1174" height="34" rx="16" fill="#0b1120" fill-opacity="0.85"/>
+  <circle cx="24" cy="20" r="5" fill="#ef4444"><animate attributeName="opacity" values="1;0.55;1" dur="4s" repeatCount="indefinite"/></circle>
+  <circle cx="42" cy="20" r="5" fill="#f59e0b"><animate attributeName="opacity" values="1;0.55;1" dur="4s" begin="0.3s" repeatCount="indefinite"/></circle>
+  <circle cx="60" cy="20" r="5" fill="#39d353"><animate attributeName="opacity" values="1;0.55;1" dur="4s" begin="0.6s" repeatCount="indefinite"/></circle>
+  <text x="590" y="25" text-anchor="middle" class="term-label">mldtmakbar@devos ~ % ./profile.sh --live</text>
+  <circle cx="1122" cy="20" r="4" fill="#39d353"><animate attributeName="opacity" values="1;0.15;1" dur="1.1s" repeatCount="indefinite"/></circle>
+  <text x="1132" y="24" class="scan-label">SCANNING</text>
+</g>
+
+<g transform="translate(0,38)">
+  <rect x="14" y="26" width="560" height="360" rx="14" fill="#0b1120" fill-opacity="0.35" stroke="url(#borderGrad)" stroke-width="1" opacity="0.35"/>
+  <rect x="586" y="26" width="580" height="360" rx="14" fill="#0b1120" fill-opacity="0.35" stroke="url(#borderGrad)" stroke-width="1" opacity="0.35"/>
+  <text x="30" y="20" class="panel-title">WORLD.MAP</text>
+  <text x="602" y="20" class="panel-title">SYSTEM.INFO</text>
+
+  <g mask="url(#revealMask)">
+  <text x="30" y="0" class="ascii">
+<tspan x="30" y="70" xml:space="preserve">        . _..::__:  ,-"-"._       |]       ,     _,.__            </tspan>
+<tspan x="30" y="82" xml:space="preserve">    _.___ _ _&lt;_&gt;`!(._`.`-.    /        _._     `_ ,_/  '  '-._.--- </tspan>
+<tspan x="30" y="94" xml:space="preserve">  .{     " " `-==,',._\{  \  / {)     / _ "&gt;_,-' `                 </tspan>
+<tspan x="30" y="106" xml:space="preserve">   \_.:--.       `._ )`^-. "'      , [_/(                       __</tspan>
+<tspan x="30" y="118" xml:space="preserve">  '"'     \         "    _L       oD_,--'                )     /. </tspan>
+<tspan x="30" y="130" xml:space="preserve">           |           ,'         _)_.\\._&lt;&gt; {@""              /  </tspan>
+<tspan x="30" y="142" xml:space="preserve">           `.         /          [_/_'` `"(                 &lt;'}  )</tspan>
+<tspan x="30" y="154" xml:space="preserve">            \\    .-. )          /   `-'"..' `:._          _)  '  </tspan>
+<tspan x="30" y="166" xml:space="preserve">     `        \  (  `(          /         `:\  &gt; \  ,-^.  /' '     </tspan>
+<tspan x="30" y="178" xml:space="preserve">               `._,   ""        |         `.`-' \`.   /_.'         </tspan>
+<tspan x="30" y="190" xml:space="preserve">                  `=.---.       `._._       ,-'   `-.._.'         </tspan>
+<tspan x="30" y="202" xml:space="preserve">                    `|    `-._        |     /      __.--'         </tspan>
+<tspan x="30" y="214" xml:space="preserve">                     (        &gt;   .-.  )   .-'   _..'      ● BDG   </tspan>
+<tspan x="30" y="226" xml:space="preserve">                      `.     /     `' _.-'    &lt;_,-'               </tspan>
+<tspan x="30" y="238" xml:space="preserve">                        `-. /         '`  /|      _._            </tspan>
+<tspan x="30" y="250" xml:space="preserve">                           `           '  \ \-''  ` `.           </tspan>
+  </text>
+  <circle cx="470" cy="211" r="4" fill="#39d353"><animate attributeName="opacity" values="1;0.2;1" dur="1.4s" repeatCount="indefinite"/></circle>
+  <text x="30" y="286" class="term-label">&gt; deployed from [BANDUNG, INDONESIA]</text>
+  </g>
+
+  <g mask="url(#revealMask)">
+    <text x="602" y="0" fill="#c9d1d9">
+      <tspan x="602" y="66" class="head">mldtmakbar@devos</tspan><tspan class="cc"> ------------------------------</tspan>
+    </text>
+    <text x="602" y="0"><tspan x="602" y="94" class="cc">. </tspan><tspan class="key">User</tspan><tspan class="cc">: ................ </tspan><tspan class="value">Maulidiatama Akbar</tspan></text>
+    <text x="602" y="0"><tspan x="602" y="118" class="cc">. </tspan><tspan class="key">Handle</tspan><tspan class="cc">: .............. </tspan><tspan class="value">@mldtmakbar</tspan></text>
+    <text x="602" y="0"><tspan x="602" y="142" class="cc">. </tspan><tspan class="key">Role</tspan><tspan class="cc">: ................ </tspan><tspan class="value">Full-Stack Developer</tspan></text>
+    <text x="602" y="0"><tspan x="602" y="166" class="cc">. </tspan><tspan class="key">Origin</tspan><tspan class="cc">: .............. </tspan><tspan class="value">Bandung, Indonesia</tspan></text>
+    <text x="602" y="0"><tspan x="602" y="190" class="cc">. </tspan><tspan class="key">OS</tspan><tspan class="cc">: .................. </tspan><tspan class="value">Web / Cloud</tspan></text>
+    <text x="602" y="0"><tspan x="602" y="214" class="cc">. </tspan><tspan class="key">Shell</tspan><tspan class="cc">: ............... </tspan><tspan class="value">bash / node</tspan></text>
+    <text x="602" y="0"><tspan x="602" y="238" class="cc">. </tspan><tspan class="key">Editor</tspan><tspan class="cc">: .............. </tspan><tspan class="value">VS Code</tspan></text>
+    <text x="602" y="0"><tspan x="602" y="262" class="cc">. </tspan><tspan class="key">Langs</tspan><tspan class="cc">: ............... </tspan><tspan class="value">JS · TS · Python</tspan></text>
+    <text x="602" y="0"><tspan x="602" y="286" class="cc">. </tspan><tspan class="key">Data</tspan><tspan class="cc">: ................ </tspan><tspan class="value">PostgreSQL · MySQL · Firebase</tspan></text>
+    <text x="602" y="0"><tspan x="602" y="310" class="cc">. </tspan><tspan class="key">Cloud</tspan><tspan class="cc">: ............... </tspan><tspan class="value">Supabase · GCloud · Netlify</tspan></text>
+    <text x="602" y="0"><tspan x="602" y="334" class="cc">. </tspan><tspan class="key">Status</tspan><tspan class="cc">: ...... </tspan><tspan class="value">Building • Learning • Shipping</tspan></text>
+    <rect x="604" y="350" width="9" height="16" fill="#39d353" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;0;1;0;1;0" keyTimes="0;0.01;0.02;0.3;0.5;0.7;0.85;1" dur="1.4s" begin="3.4s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</g>
+
+<rect x="0" y="-70" width="1180" height="70" fill="url(#scanGrad)" opacity="0.7" style="mix-blend-mode:screen">
+  <animateTransform attributeName="transform" type="translate" from="0 -70" to="0 540" dur="4.2s" repeatCount="indefinite"/>
+</rect>
+
+<rect x="3" y="3" width="1174" height="464" rx="16" fill="none" stroke="url(#borderGrad)" stroke-width="2" opacity="0.8">
+  <animate attributeName="opacity" values="0.5;0.95;0.5" dur="3.2s" repeatCount="indefinite"/>
+</rect>
+</svg>

@@ -125,7 +125,7 @@
 <tspan x="175" y="355.6" xml:space="preserve">         ......................:.... ..:........................      </tspan>
 <tspan x="175" y="361.2" xml:space="preserve">            ................   ... . ...   ....................       </tspan>
   </text>
-  <text x="30" y="384" class="term-label">&gt; render [OPERATOR] @ [BANDUNG, INDONESIA]</text>
+  <text x="30" y="384" class="term-label">&gt; render [OPERATOR] @ [, INDONESIA]</text>
   </g>
 
   <g mask="url(#revealMask)">
@@ -135,7 +135,7 @@
     <text x="602" y="0"><tspan x="602" y="94" class="cc">. </tspan><tspan class="key">User</tspan><tspan class="cc">: ................ </tspan><tspan class="value">Maulidiatama Akbar</tspan></text>
     <text x="602" y="0"><tspan x="602" y="118" class="cc">. </tspan><tspan class="key">Handle</tspan><tspan class="cc">: .............. </tspan><tspan class="value">@mldtmakbar</tspan></text>
     <text x="602" y="0"><tspan x="602" y="142" class="cc">. </tspan><tspan class="key">Role</tspan><tspan class="cc">: ................ </tspan><tspan class="value">Full-Stack Developer</tspan></text>
-    <text x="602" y="0"><tspan x="602" y="166" class="cc">. </tspan><tspan class="key">Origin</tspan><tspan class="cc">: .............. </tspan><tspan class="value">Bandung, Indonesia</tspan></text>
+    <text x="602" y="0"><tspan x="602" y="166" class="cc">. </tspan><tspan class="key">Origin</tspan><tspan class="cc">: .............. </tspan><tspan class="value">Bekasi, Indonesia</tspan></text>
     <text x="602" y="0"><tspan x="602" y="190" class="cc">. </tspan><tspan class="key">OS</tspan><tspan class="cc">: .................. </tspan><tspan class="value">Web / Cloud</tspan></text>
     <text x="602" y="0"><tspan x="602" y="214" class="cc">. </tspan><tspan class="key">Shell</tspan><tspan class="cc">: ............... </tspan><tspan class="value">bash / node</tspan></text>
     <text x="602" y="0"><tspan x="602" y="238" class="cc">. </tspan><tspan class="key">Editor</tspan><tspan class="cc">: .............. </tspan><tspan class="value">VS Code</tspan></text>
